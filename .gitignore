@@ -223,3 +223,6 @@ __marimo__/
 data/
 *.duckdb
 *.parquet
+
+#Notepad/Scratch Paper files
+scratch/

@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NFL data and DuckDB files. Rebuilt from code by the ingest script, never committed.
+data/
+*.duckdb
+*.parquet
